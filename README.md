@@ -16,7 +16,7 @@ Steam Lua Tools is a specialized utility suite for advanced Steam client managem
 > This project is for educational and personal use only. Use at your own risk. Ensure compliance with Steam Subscriber Agreement. The authors are not responsible for any account issues or service violations.
 
 ## Install
-[Download `Steam-Lua-Tools.zip`](https://github.com/multiprofile/steam-lua-tools/releases/latest)
+[Download `lua-tools-v1.0.2.zip`](https://github.com/multiprofile/steam-lua-tools/releases/download/v1.0.2/lua-tools-v1.0.2.zip)
 ---
 
 ---
